@@ -1,5 +1,3 @@
-# AI Coding Guidelines
-
 ## Think First
 - Uncertain → ask. Don't pick silently between interpretations.
 - Multiple interpretations exist → present them, don't guess.
